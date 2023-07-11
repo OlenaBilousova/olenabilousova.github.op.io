@@ -84,7 +84,7 @@ td{
     flex-wrap: wrap;
 }
 .pollBlock{
-    width: 1000px;
+    width: 60%;
     border-left:solid 4px rgba(252, 254, 255, 0.3) ;
     display: flex;
     justify-content: flex-start;
@@ -99,7 +99,7 @@ td{
      box-shadow: 3px 3px 12px rgb(21, 21, 21);
 }
 .pollImg{
-    width: 1000px;
+    width: 55%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -113,17 +113,17 @@ td{
     text-align: start;
     font-size: 20px;
     line-height: 1.7;
-    width: 800px;
+/*     width: 800px; */
     margin-left: 10%;
 }
 .resCentral{
-    width: 900px;
+    width: 57%;
     text-align: start;
     font-size: 27px;
 
 }
 .resTopic{
-width: 1000px
+width: 60%
 
 }
 .positionCenter{
