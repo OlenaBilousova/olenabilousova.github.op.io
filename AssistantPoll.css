@@ -100,7 +100,7 @@ td{
      box-shadow: 3px 3px 12px rgb(21, 21, 21);
 }
 .pollImg{
-/*     width: 55%; */
+    width: 55%;
     display: flex;
     justify-content: center;
     align-items: center;
